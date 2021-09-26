@@ -1,10 +1,3 @@
-select * from dbo.[Order]
-select * from dbo.[Product]  
-select * from [dbo].[Store]
-select * from [dbo].[OrderItem] 
-select * from [dbo].[Category]
-
-
 
 --1
 select	p.ProductName 
